@@ -4,7 +4,7 @@ Please Do Remeber to Edit/Change your bitcoin.config
 
 for that you need to go to:
 
-### Terminal :
+### Linux Terminal :
 
 cd 
 
