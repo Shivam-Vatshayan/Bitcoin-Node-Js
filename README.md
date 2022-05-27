@@ -1,5 +1,41 @@
 # Bitcoin-Node-Js
 
+Please Do Remeber to Edit/Change your bitcoin.config
+
+for that you need to go to:
+
+### Terminal :
+
+cd 
+
+ls
+
+cd Downloads
+
+ls
+
+cd bitcoin
+
+ls
+
+nano bitcoin.config
+
+Bitcoin.config file will be open then Edit/change : [Link](https://github.com/Shivam-Vatshayan/Bitcoin-Node-Js/blob/main/bitcoin.config)
+
+**Or If this Don't work/open then :**
+
+cd
+
+ls
+
+ls -lha
+
+cd bitcoin
+
+ls -lha
+
+nano bitcoin.config
+
 ## Step 1:
 Go to Terminal: 
 
