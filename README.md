@@ -18,7 +18,10 @@ cd bitcoin
 
 ls
 
-nano bitcoin.config
+nano bitcoin.config  
+
+Ctrl+shift+O/Ctrl+shift+s/ctrl+s to Save
+
 
 Bitcoin.config file will be open then Edit/change : [Link](https://github.com/Shivam-Vatshayan/Bitcoin-Node-Js/blob/main/bitcoin.config)
 
@@ -35,6 +38,9 @@ cd bitcoin
 ls -lha
 
 nano bitcoin.config
+
+Bitcoin.config file will be open then Edit/change : [Link](https://github.com/Shivam-Vatshayan/Bitcoin-Node-Js/blob/main/bitcoin.config)
+
 
 ## Step 1:
 Go to Terminal: 
@@ -80,3 +86,7 @@ bitcoin-cli getblockchaininfo
 
 
 ![Screenshot from 2022-05-27 21-09-02](https://user-images.githubusercontent.com/105789347/170739633-5bca09dc-05ae-4ab0-8c24-dafe48c3d920.png)
+
+So, Now you will get the ouptut as in photo. 
+
+T
