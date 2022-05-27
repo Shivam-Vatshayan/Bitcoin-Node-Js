@@ -88,5 +88,3 @@ bitcoin-cli getblockchaininfo
 ![Screenshot from 2022-05-27 21-09-02](https://user-images.githubusercontent.com/105789347/170739633-5bca09dc-05ae-4ab0-8c24-dafe48c3d920.png)
 
 So, Now you will get the ouptut as in photo. 
-
-T
